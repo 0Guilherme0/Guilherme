@@ -1,4 +1,4 @@
-# Guilherme
+# Sobre mim :)
 
 I am a technology student with a growing interest in software development. 
 I have hands-on experience in programming and have been developing skills in both back-end and front-end areas, 
